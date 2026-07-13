@@ -1,0 +1,12 @@
+2026-07-13 10:00:01 INFO Application started successfully
+2026-07-13 10:01:15 INFO User authentication completed
+2026-07-13 10:04:05 WARNING Database response time increased to 650ms
+2026-07-13 10:04:42 WARNING Database response time increased to 920ms
+2026-07-13 10:05:11 WARNING Database connection pool usage reached 88%
+2026-07-13 10:05:47 WARNING Database connection pool usage reached 95%
+2026-07-13 10:06:02 ERROR Database connection timeout after 30 seconds
+2026-07-13 10:06:04 ERROR Failed to fetch user profile
+2026-07-13 10:06:05 ERROR HTTP 500 returned by profile service
+2026-07-13 10:06:40 CRITICAL Profile service became unavailable
+2026-07-13 10:07:01 INFO Automatic retry initiated
+2026-07-13 10:07:31 ERROR Retry failed because database connection was unavailable
