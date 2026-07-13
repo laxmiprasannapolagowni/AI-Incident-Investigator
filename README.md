@@ -6,6 +6,14 @@ The application helps developers and Site Reliability Engineers (SREs) analyze s
 
 ---
 
+# 🌐 Live Demo
+
+🚀 **Try the application here:**
+
+👉 **[Open AI Incident Investigator](https://ai-incident-investigator.streamlit.app)**
+
+---
+
 # 📖 Project Overview
 
 Modern software systems generate thousands of log entries every day, making manual log investigation time-consuming and error-prone.
